@@ -1,0 +1,15 @@
+{
+  "name": "web_pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cheater_sSs",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "currency-converter-lt": "^2.0.1"
+  }
+}
